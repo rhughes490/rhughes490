@@ -1,11 +1,35 @@
-Hi! 👋
+<script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
 
-Thanks for visiting my Github profile. 
+<div id="typewriter">
+  
+  const instance = new Typewriter('#typewriter', {
+      loop: true
+  });
 
-This is where you'll find all my open source stuff.
+  instance.typeString("Hi!")
+      .pauseFor(1000)
+      .deleteAll()
+      .typeString('I am Ronan.')
+      .pauseFor(1000)
+      .deleteChars(15)
+      .typeString('an aspiring<br>Software Developer.')
+      .pauseFor(1000)
+      .deleteChars(29)
+      .typeString('currently learning<br>Your-Skill.')
+      .pauseFor(1000)
+      .deleteAll()
+      .typeString('Check out my work at<br>github.com/your-username')
+      .pauseFor(1000)
+      .deleteAll()
+      .start();
 
-At the moment I'm learning software development at Codeclan
+</div>
 
-I'm learning Ruby, JavaScript and Java.
-
-Contact me on https://www.linkedin.com/in/ronan-hughes/, feel free to send me a connection request.
+#typewriter {
+    position: absolute;
+    font-size: 60px;
+    font-family: 'B612', sans-serif;
+    font-weight: 700;
+    width: 800px;
+    margin: 350px 250px;
+}
