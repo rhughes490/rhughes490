@@ -12,4 +12,4 @@ Contact me at email@ronanhugh.es
 
 Connect with me on [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ronan-hughes)
 
-Or Follow me here on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rhughes490)
+Or follow me here on [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rhughes490)
