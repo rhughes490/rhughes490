@@ -6,7 +6,7 @@ This is where you'll find all my open source stuff.
 
 At the moment I'm learning software development at Codeclan
 
-I'm learning Ruby, Python, JavaScript and Java.
+I'm learning JavaScript, Java, Ruby and Python.
 
 Contact me at email@ronanhugh.es
 
