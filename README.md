@@ -4,9 +4,11 @@ Thanks for visiting my Github profile.
 
 This is where you'll find all my open source stuff.
 
-At the moment I'm learning software development at Codeclan
+Graduate of Professional Software Development at Codeclan.
 
-I'm learning JavaScript, Java, Ruby and Python.
+Currently studying Undergraduate Advanced Diploma in IT System Analysis and Design at Oxford University.
+
+Proficient in JavaScript, Java, Ruby and Python.
 
 Contact me at email@ronanhugh.es
 
