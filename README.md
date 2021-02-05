@@ -8,7 +8,13 @@ Graduate of Professional Software Development at Codeclan.
 
 Currently studying Undergraduate Advanced Diploma in IT System Analysis and Design at Oxford University.
 
-Proficient in JavaScript, Java, Ruby and Python.
+Languages: JavaScript, Python, Ruby, Java, SQL, HTML, CSS
+
+Frameworks: React, Vue, Spring, Node/Express, Sinatra, Flask, Django
+
+Software practices: Agile, Test Driven Development, Object oriented programming
+
+Additional technologies: Git, GitHub, MongoDB, Insomnia, PostgreSQL
 
 Contact me at email@ronanhugh.es
 
